@@ -1,9 +1,25 @@
-# 📊 Power BI Stock Performance Dashboard (2023–2025)
+# 📊 Power BI Stock Performance Dashboard (2023–2025) 
 
 ### 👤 Created by: Bhanu Prakash Pepala  
 **Role**: Aspiring Financial Data Analyst | 📍 India  
 **Specialization**: Financial Dashboards, Stock Trend Analysis, Power BI, DAX  
 🔗 [LinkedIn](https://www.linkedin.com/in/pepala-bhanu-prakash-2002m09d14/) | [GitHub](https://github.com/PepalaBhanuPrakash123)
+
+---
+
+## 🖼️ Dashboard Previews
+
+### 📘 HDFC Bank – Stock Performance
+![HDFC Dashboard](images/HDFC-Dashboard.png)
+
+### 📘 Reliance Industries – Stock Performance
+![Reliance Dashboard](images/Reliance-Dashboard.png)
+
+### 📘 TATA Consumer – Stock Performance
+![TATA Dashboard](images/TATA-Dashboard.png)
+
+### 📘 Overall Comparison Dashboard (2023–2025)
+![Overall Comparison](images/Overview-comparison.png)
 
 ---
 
@@ -94,9 +110,9 @@ It combines **technical indicators, profit analysis, revenue trends, and volume 
 
 > “This project reflects my passion for turning raw stock data into actionable investment insights using Power BI, storytelling, and financial logic.”
 
-- 💼 Aspiring Financial Data Analyst
-- 🧠 Focus: Equity Analysis, Visualization, Insights
-- 📈 Strong command of technical indicators and business KPIs
+- 💼 Aspiring Financial Data Analyst  
+- 🧠 Focus: Equity Analysis, Visualization, Insights  
+- 📈 Strong command of technical indicators and business KPIs  
 - 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/pepala-bhanu-prakash-2002m09d14/)
 
 ---
@@ -104,5 +120,3 @@ It combines **technical indicators, profit analysis, revenue trends, and volume 
 ## 🌟 If you found this dashboard useful or insightful...
 
 Please ⭐ the repo or share with recruiters/hiring managers interested in **Power BI + Finance Talent**!
-
-
