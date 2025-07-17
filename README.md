@@ -19,7 +19,7 @@
 ![TATA Dashboard](images/TATA-Dashboard.png)
 
 ### 📘 Overall Comparison Dashboard (2023–2025)
-![Overall Comparison](images/Overview-comparison.png)
+![Overall Comparison](images/Overview-Comparison.png)
 
 ---
 
